@@ -1,0 +1,6 @@
+framework module TestPodDevice {
+  umbrella header "TestPodDevice-umbrella.h"
+
+  export *
+  module * { export * }
+}

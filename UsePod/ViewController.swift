@@ -7,19 +7,24 @@
 //
 
 import UIKit
+import TestPodDevice
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        checkDevice()
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    func checkDevice() {
+//        if Device.IS_IPAD {
+//            deviceLabel.text = "iPad"
+//        } else {
+//            deviceLabel.text = "iPhone"
+//        }
+        
+        
     }
-
-
 }
 

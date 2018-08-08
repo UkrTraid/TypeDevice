@@ -1,0 +1,16 @@
+PODS:
+  - TestPodDevice (0.4.0)
+
+DEPENDENCIES:
+  - TestPodDevice
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TestPodDevice
+
+SPEC CHECKSUMS:
+  TestPodDevice: 82e2f6f145c2659214aa177e6e05bbd61dc4a459
+
+PODFILE CHECKSUM: 583153a91b913cfa6e7b4967cf4324a54ad37bfa
+
+COCOAPODS: 1.5.3
